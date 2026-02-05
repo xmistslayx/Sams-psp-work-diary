@@ -1,4 +1,9 @@
 # Professional Software Projects GitHub Diary Guidance
+# Sams Work diary 
+Student Number:c2027247
+
+role: I am working on the frontend and the wireframes at the begining of the design process
+
 
 This repo contains
 
