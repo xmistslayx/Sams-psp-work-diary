@@ -1,5 +1,5 @@
 # Professional Software Projects GitHub Diary Guidance
-# Sams Work diary 
+# Sams Clark Work diary 
 Team: NHS Pathfinder
 
 Student Number:c2027247
