@@ -1,3 +1,8 @@
-# Tips for the Sprint Week
+Showed user stories to my colleges 
 
-Comment on actions during the first Sprint Week.
+Worked on a section of the staff portal alongside Haris 
+
+Completed the styling of the manage paths section with dummy data 
+
+Collaborated on workshopping fresh ideas 
+
