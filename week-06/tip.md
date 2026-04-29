@@ -1,3 +1,1 @@
-# Tips for this week
-
-Comment on the development of an `Action Plan` following Sprint One.  What is the teams plan.
+we did quite a lot in sprint one which was good as it leaves more time for more important sections in sprint 2 like what data should be stored as and the plan of how to make making paths as easy to organise as possible for the nhs staff
